@@ -63,21 +63,39 @@ Nota: renombrar `Noto Color Emoji` por el nombre real de la fuente, lo puedes sa
 
 ### Selector de Emoji
 
-**Default**
-En cajas de texto gtk `gedit` esposible desplegar el selector Gtk: <kbd>Ctrl</kbd> + <kbd>:</kbd>.
+- **Default**
+  En cajas de texto gtk `gedit` esposible desplegar el selector Gtk: <kbd>Ctrl</kbd> + <kbd>:</kbd>.
 
-**Gnome shell**
-Una extensión de gnome https://extensions.gnome.org/extension/1162/emoji-selector/.
 
-**UniEmoji Ibus**
-Este método funciona instalando AUR:`UniEmoji`, luego ir a Configuraciones del sistema:
-Settings/Region & Language/ (add input source) / others / uniemoji
+
+- **Gnome shell**
+    Una extensión de gnome https://extensions.gnome.org/extension/1162/emoji-selector/.
+
+
+
+- **UniEmoji Ibus**
+    Este método funciona instalando AUR:`UniEmoji` * ultima version, recuerda despues de cada configuración: `ibus restart`, luego ir a Configuraciones del sistema `Settings/Region & Language/ (add input source) / others / uniemoji` :
 
 ![Screenshot](assets/settings.png)
 
 
 
-Ahora  con <kbd>Super</kbd> + <kbd>Space</kbd> cambia rápidamente por el método de entrada `Other (uniemoji)` 
+Como funciona: oprime <kbd>Ctrl</kbd> + <kbd>Shift</kbd>  + <kbd>e</kbd>. aparecera una `e` y ahora <kbd>Space</kbd> desplega el menu.
+
+![Screenshot](assets/ibus1.png)
+
+
+
+En este punto ya se puede escribir el nombre del Emoji:
+
+
+
+
+![Screenshot](assets/ibus2.png)
+
+
+
+Tambien puedes con <kbd>Super</kbd> + <kbd>Space</kbd> cambia rápidamente por el método de entrada `Other (uniemoji)` 
 
 
 
@@ -88,8 +106,4 @@ Ahora  con <kbd>Super</kbd> + <kbd>Space</kbd> cambia rápidamente por el métod
 Ahora al escribir:
 
 
-
 ![Screenshot](assets/select.png)
-
-
-
