@@ -66,6 +66,9 @@ Nota: renombrar `Noto Color Emoji` por el nombre real de la fuente, lo puedes sa
 **Default**
 En cajas de texto gtk `gedit` esposible desplegar el selector Gtk: <kbd>Ctrl</kbd> + <kbd>:</kbd>.
 
+**Gnome shell**
+Una extensión de gnome https://extensions.gnome.org/extension/1162/emoji-selector/.
+
 **UniEmoji Ibus**
 Este método funciona instalando AUR:`UniEmoji`, luego ir a Configuraciones del sistema:
 Settings/Region & Language/ (add input source) / others / uniemoji
