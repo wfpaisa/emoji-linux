@@ -61,8 +61,12 @@ Nota: renombrar `Noto Color Emoji` por el nombre real de la fuente, lo puedes sa
 - https://www.emojicopy.com/ (settings:Native)
 - https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
-**Selector de Emoji con Ibus**
+### Selector de Emoji
 
+**Default**
+En cajas de texto gtk `gedit` esposible desplegar el selector Gtk: <kbd>Ctrl</kbd> + <kbd>:</kbd>.
+
+**UniEmoji Ibus**
 Este método funciona instalando AUR:`UniEmoji`, luego ir a Configuraciones del sistema:
 Settings/Region & Language/ (add input source) / others / uniemoji
 
