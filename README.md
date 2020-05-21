@@ -7,6 +7,7 @@ Como configurar en Manjaro
 
 - De google: https://www.google.com/get/noto/help/emoji/ (Descargara ~1G, descomprimir y buscar: `NotoColorEmoji.ttf`) .
 - Emojione: https://github.com/emojione/emojione-assets/releases `emojione-android.ttf`.
+- Tambien se pueden descargar de [aqui ios](https://forum.xda-developers.com/android/general/ios-13-2-emojis-huawei-themes-t3993235)
 
 Nota: Dejo una copia en (assets/fonts.zip) 😎.
 
