@@ -75,37 +75,5 @@ Nota: renombrar `Noto Color Emoji` por el nombre real de la fuente, lo puedes sa
 
 
 
-- **UniEmoji Ibus**
-    Este método funciona instalando AUR:`UniEmoji` * ultima version, recuerda despues de cada configuración: `ibus restart`, luego ir a Configuraciones del sistema `Settings/Region & Language/ (add input source) / others / uniemoji` :
-
-![Screenshot](assets/settings.png)
-
-
-
-Como funciona: oprime <kbd>Ctrl</kbd> + <kbd>Shift</kbd>  + <kbd>e</kbd>. aparecera una `e` y ahora <kbd>Space</kbd> desplega el menu.
-
-![Screenshot](assets/ibus1.png)
-
-
-
-En este punto ya se puede escribir el nombre del Emoji:
-
-
-
-
-![Screenshot](assets/ibus2.png)
-
-
-
-Tambien puedes con <kbd>Super</kbd> + <kbd>Space</kbd> cambia rápidamente por el método de entrada `Other (uniemoji)` 
-
-
-
-![Screenshot](assets/change.png)
-
-
-
-Ahora al escribir:
-
-
-![Screenshot](assets/select.png)
+- **App gnome**
+	https://github.com/mijorus/smile
