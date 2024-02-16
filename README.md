@@ -15,11 +15,11 @@ Nota: Dejo una copia en (assets/fonts.zip) 😎.
 
 
 **Instalar**
-
-1. Instalar fuente
+1. Desinstalar toda fuente noto emoji del sistema
+2. Instalar fuente
 	a. La fuente que se escoja ponerla en: `~/.local/share/fonts/Emoji` ó yo recomiendo en: `/usr/share/fonts/Emoji`.
 	b. Instalar la fuente de google desde el repositorio buscando: `noto-fonts-emoji`.
-2. Actualizar cache `sudo fc-cache -f -v`
+3. Actualizar cache `sudo fc-cache -f -v`
 
 
 **Problemas**
