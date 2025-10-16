@@ -55,7 +55,7 @@ Crear un archivo en `~/.config/fontconfig/fonts.conf`
 Nota: renombrar `Noto Color Emoji` por el nombre real de la fuente, lo puedes sacar abriendo la fuente y  llendo a información, por ultimo actualizar cache `sudo fc-cache -f -v`.
 
 
-
+- si el sistema operativo instalo una fuente por defecto, puede remplazarla por la descargada, ejemplo `/usr/share/fonts/noto/NotoColorEmoji.ttf`
 
 
 **Visualizadores**
